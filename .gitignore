@@ -1,3 +1,4 @@
+.vscode/
 __pycache__/
 db_*.json
 fc_*.txt
