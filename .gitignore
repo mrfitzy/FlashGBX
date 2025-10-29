@@ -1,0 +1,4 @@
+__pycache__/
+db_*.json
+fc_*.txt
+settings.ini
