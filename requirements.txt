@@ -1,0 +1,4 @@
+pillow
+pyserial
+python-dateutil
+serial
